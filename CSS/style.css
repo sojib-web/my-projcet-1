@@ -2,3 +2,90 @@ body{
 
     font-family: 'Open Sans', sans-serif;
 }
+.banner-container{
+
+    background-color: #CACACA;
+}
+
+.banner-column{
+    background-color: #8D8D8D;
+}
+
+.navbar-container{
+    top: 0;
+    background-color: #262B37;
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+
+    background-color: #00BDBD;
+}
+.education-container{
+
+    background-color: #EEEEEE;
+} 
+
+.bg-redtype{
+    background-color: #8D8D8D;
+}
+.redtype-color{
+
+    color: #fb857f;
+    text-align: center;
+}
+.circle-edu{
+    background-color: #fb857f;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.project-container{
+
+    background-color: #2bb3dd;
+}
+.redtype-colorr{
+
+    color: #ffffff;
+    text-align: center;
+}
+.protfolio-container{
+    background-color: #ffffff;
+}
+
+.redtype-colors{
+
+    color: #fb857f;
+    text-align: center;
+}
+.form-container{
+
+    background-color: #474d5d;
+}
+.font-size{
+    font-size: 100px;
+}
+
+.inner-form{
+    background-color: #585f73;
+}
+.footer{
+
+    background-color: #2bb3dd;
+}
+.circle{
+
+    height: 60px;
+    width:60px ;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    text-align: center;
+    color: #2bb3dd;
+    font-size: 40px;
+  
+
+}
+.circle:hover{
+    background-color: black;
+}
